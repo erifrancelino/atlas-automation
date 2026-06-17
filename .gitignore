@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+*.xlsx
+*.xls
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
