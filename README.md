@@ -1,4 +1,4 @@
-\# Atlas Automation
+# Atlas Automation
 
 ## Demonstração
 
@@ -11,14 +11,14 @@ Automação desenvolvida em Python para migração de visitas educacionais para 
 
 
 
-\## Objetivo
+## Objetivo
 
 
 O projeto automatiza o cadastro de visitas a partir de uma planilha Excel, eliminando o preenchimento manual de centenas de registros.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
@@ -32,7 +32,7 @@ O projeto automatiza o cadastro de visitas a partir de uma planilha Excel, elimi
 
 
 
-\## Funcionalidades
+## Funcionalidades
 
 
 
@@ -56,7 +56,7 @@ O projeto automatiza o cadastro de visitas a partir de uma planilha Excel, elimi
 
 
 
-\## Resultado
+## Resultado
 
 
 
@@ -64,7 +64,7 @@ A automação reduziu significativamente o tempo necessário para migrar registr
 
 
 
-\## Observação
+## Observação
 
 
 
